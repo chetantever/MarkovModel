@@ -1,4 +1,4 @@
-package com.adobe.predictor;
+package com.chetan.predictor;
 
 public class Predictor {
 

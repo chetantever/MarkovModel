@@ -1,4 +1,4 @@
-package com.adobe.dbconnector;
+package com.chetan.dbconnector;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

@@ -1,4 +1,4 @@
-package com.adobe.markovmodel;
+package com.chetan.markovmodel;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

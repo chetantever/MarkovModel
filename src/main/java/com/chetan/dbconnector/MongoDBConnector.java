@@ -1,4 +1,4 @@
-package com.adobe.dbconnector;
+package com.chetan.dbconnector;
 
 import com.mongodb.BasicDBObject;
 import com.mongodb.DB;
